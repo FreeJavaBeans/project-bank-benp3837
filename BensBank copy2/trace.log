@@ -1,0 +1,100 @@
+2020-11-11 00:16:32 bensbank [DEBUG] This is a test
+2020-11-11 00:17:24 bensbank [DEBUG] This is a test
+2020-11-11 00:17:59 bensbank [DEBUG] This is a test
+2020-11-11 00:18:05 bensbank [INFO] BP has logged in
+2020-11-11 00:29:48 bensbank [DEBUG] This is a test
+2020-11-11 00:33:50 bensbank [INFO] BP has logged in
+2020-11-11 00:34:38 bensbank [DEBUG] This is a test
+2020-11-11 00:34:42 bensbank [INFO] BP has logged in
+2020-11-11 00:39:28 bensbank [DEBUG] This is a test
+2020-11-11 00:39:35 bensbank [INFO] BP has logged in
+2020-11-11 00:51:39 bensbank [DEBUG] This is a test
+2020-11-11 00:51:46 bensbank [INFO] BP has logged in
+2020-11-11 00:53:24 bensbank [DEBUG] This is a test
+2020-11-11 00:53:30 bensbank [INFO] BP has logged in
+2020-11-11 00:54:42 bensbank [DEBUG] This is a test
+2020-11-11 00:54:47 bensbank [INFO] BP has logged in
+2020-11-11 00:57:47 bensbank [DEBUG] This is a test
+2020-11-11 00:57:52 bensbank [INFO] BP has logged in
+2020-11-11 01:29:31 bensbank [DEBUG] This is a test
+2020-11-11 01:29:37 bensbank [INFO] BP has logged in
+2020-11-11 01:39:17 bensbank [DEBUG] This is a test
+2020-11-11 01:39:22 bensbank [INFO] BP has logged in
+2020-11-11 01:39:32 bensbank [INFO] Account #1 has withdrawn $20
+2020-11-11 01:58:09 bensbank [DEBUG] This is a test
+2020-11-11 01:58:19 bensbank [INFO] BP has logged in
+2020-11-11 01:59:06 bensbank [DEBUG] This is a test
+2020-11-11 01:59:10 bensbank [INFO] BP has logged in
+2020-11-11 02:10:44 bensbank [INFO] Account #2 has withdrawn $40
+2020-11-11 02:12:44 bensbank [DEBUG] This is a test
+2020-11-11 02:12:49 bensbank [INFO] BP has logged in
+2020-11-11 02:12:58 bensbank [INFO] Account #2 has deposited $50
+2020-11-11 02:16:18 bensbank [DEBUG] This is a test
+2020-11-11 02:16:37 bensbank [INFO] BP has logged in
+2020-11-11 02:18:00 bensbank [INFO] Account #3 has withdrawn $200
+2020-11-11 02:18:45 bensbank [INFO] Account #4 has deposited $20
+2020-11-11 02:19:03 bensbank [INFO] Account #4 has deposited $20
+2020-11-11 02:20:54 bensbank [DEBUG] This is a test
+2020-11-11 02:20:59 bensbank [INFO] BP has logged in
+2020-11-11 02:21:13 bensbank [INFO] Account #4 has deposited $80
+2020-11-11 10:37:05 bensbank [DEBUG] This is a test
+2020-11-11 10:37:12 bensbank [INFO] BP has logged in
+2020-11-11 11:07:14 bensbank [DEBUG] This is a test
+2020-11-11 11:07:19 bensbank [INFO] BP has logged in
+2020-11-11 11:09:22 bensbank [DEBUG] This is a test
+2020-11-11 11:09:27 bensbank [INFO] BP has logged in
+2020-11-11 11:10:49 bensbank [DEBUG] This is a test
+2020-11-11 11:10:57 bensbank [INFO] PB has logged in
+2020-11-11 11:14:04 bensbank [DEBUG] This is a test
+2020-11-11 11:14:12 bensbank [INFO] BP has logged in
+2020-11-11 11:20:41 bensbank [DEBUG] This is a test
+2020-11-11 11:20:46 bensbank [INFO] BP has logged in
+2020-11-11 11:52:29 bensbank [DEBUG] This is a test
+2020-11-11 11:53:13 bensbank [DEBUG] This is a test
+2020-11-11 11:53:32 bensbank [INFO] BP has logged in
+2020-11-11 11:54:09 bensbank [DEBUG] This is a test
+2020-11-11 11:55:06 bensbank [DEBUG] This is a test
+2020-11-11 11:55:12 bensbank [INFO] BP has logged in
+2020-11-11 11:58:41 bensbank [INFO] Account #4 has withdrawn $50
+2020-11-11 11:59:06 bensbank [INFO] Account #4 has deposited $60
+2020-11-11 12:02:27 bensbank [DEBUG] This is a test
+2020-11-11 12:02:27 bensbank [DEBUG] This is a test
+2020-11-11 12:02:40 bensbank [INFO] BP has logged in
+2020-11-11 12:06:57 bensbank [DEBUG] This is a test
+2020-11-11 12:07:03 bensbank [INFO] BP has logged in
+2020-11-11 15:32:43 bensbank [DEBUG] This is a test
+2020-11-11 15:32:49 bensbank [INFO] BP has logged in
+2020-11-11 16:18:06 bensbank [DEBUG] This is a test
+2020-11-11 16:18:10 bensbank [INFO] BP has logged in
+2020-11-11 16:18:28 bensbank [DEBUG] This is a test
+2020-11-11 16:18:32 bensbank [INFO] BP has logged in
+2020-11-11 16:18:42 bensbank [INFO] Account #1 has deposited $500 to Account #4
+2020-11-11 17:00:47 bensbank [DEBUG] testing testing
+2020-11-11 17:00:52 bensbank [INFO] BP has logged in
+2020-11-11 17:01:00 bensbank [INFO] Account #3 has withdrawn $500
+2020-11-11 17:03:21 bensbank [INFO] Account #3 has deposited $600
+2020-11-11 17:05:12 bensbank [DEBUG] testing testing
+2020-11-11 17:05:18 bensbank [INFO] BP has logged in
+2020-11-11 17:11:11 bensbank [INFO] Account #3 has withdrawn $10
+2020-11-11 17:11:27 bensbank [INFO] Account #3 has deposited $50
+2020-11-11 17:11:42 bensbank [INFO] Account #1 has deposited $40 to Account #2
+2020-11-11 17:24:33 bensbank [DEBUG] testing testing
+2020-11-11 17:24:40 bensbank [INFO] BP has logged in
+2020-11-11 17:30:10 bensbank [DEBUG] testing testing
+2020-11-11 17:30:21 bensbank [INFO] BP has logged in
+2020-11-11 17:30:25 bensbank [INFO] Account #1 has withdrawn $30
+2020-11-11 17:34:54 bensbank [DEBUG] testing testing
+2020-11-11 17:34:59 bensbank [INFO] BP has logged in
+2020-11-11 17:35:06 bensbank [INFO] Account #1 has deposited $50 to Account #2
+2020-11-11 17:37:51 bensbank [DEBUG] testing testing
+2020-11-11 17:40:28 bensbank [INFO] BP has logged in
+2020-11-11 20:49:23 bensbank [DEBUG] testing testing
+2020-11-11 20:49:29 bensbank [INFO] BP has logged in
+2020-11-11 20:50:21 bensbank [INFO] Account #3 has withdrawn $10
+2020-11-11 20:50:34 bensbank [INFO] Account #3 has deposited $10
+2020-11-11 20:50:55 bensbank [INFO] Account #1 has deposited $20 to Account #3
+2020-11-11 20:53:08 bensbank [DEBUG] testing testing
+2020-11-11 20:53:12 bensbank [INFO] BP has logged in
+2020-11-11 21:14:54 bensbank [DEBUG] testing testing
+2020-11-11 21:14:59 bensbank [INFO] BP has logged in
+2020-11-11 21:28:51 bensbank [DEBUG] testing testing
